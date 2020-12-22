@@ -19,7 +19,7 @@
  */
 definition(
     name: "Blink Light",
-    namespace: "tyoung3",
+    namespace: "badgermanus",
     author: "Tom Young",
     description: "Blink a light when a motion or contact event occurs.", 
     category: "Convenience",
